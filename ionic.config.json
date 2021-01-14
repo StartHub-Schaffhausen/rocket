@@ -1,0 +1,7 @@
+{
+  "name": "starthub-rocket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
